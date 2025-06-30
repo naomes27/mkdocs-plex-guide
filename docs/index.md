@@ -11,4 +11,4 @@ While you don't need to read this guide from start to finish, new Plex users sho
         If there is no Plex account matching the submitted address or if you have deleted your Plex account, then no email will be sent.
 
     !!! note 
-    Essential links: <br>Plex: https://app.plex.tv/desktop (on your computer), or through the Mobile or Device applications (Android, iPhone/iPad, AppleTV, Roku, etc.)<br>Overseerr: [{{ vars.request_url }}](https://{{ vars.request_url }}) (only needed if you are requesting content, Plex account on my server is required).
+        Essential links: <br>Plex: https://app.plex.tv/desktop (on your computer), or through the Mobile or Device applications (Android, iPhone/iPad, AppleTV, Roku, etc.)<br>Overseerr: [{{ vars.request_url }}](https://{{ vars.request_url }}) (only needed if you are requesting content, Plex account on my server is required).

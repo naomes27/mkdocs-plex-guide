@@ -8,7 +8,7 @@ By default, all content on my Plex server has:
 - English subtitles (when available)
 
 ## Special Requests
-If you need any of the following, please feel free to submit the request through Overseerr. However, do note that the request may be subject to denial.
+If you need any of the following, please feel free to submit the request through Overseerr at [{{ vars.request_url }}](https://{{ vars.request_url }}). However, do note that the request may be subject to denial.
 
 - 4K versions
 - Specific audio languages

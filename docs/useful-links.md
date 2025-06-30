@@ -1,6 +1,5 @@
 # Useful Links
 
-[plxplainers.xyz](https://www.plxplainers.xyz/)<br>
-[mediaclients.wiki/Plex](https://mediaclients.wiki/Plex)<br>
-[{{ vars.request_url }}](https://{{ vars.request_url }})<br>
-[zombo.com](https://www.zombo.com/)
+Explanations for Plex: [plxplainers.xyz](https://www.plxplainers.xyz/)<br>
+Explanations: [mediaclients.wiki/Plex](https://mediaclients.wiki/Plex)<br>
+Overseerr: [{{ vars.request_url }}](https://{{ vars.request_url }})<br>

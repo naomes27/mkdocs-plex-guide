@@ -7,8 +7,4 @@ This guide details common tasks you'll need to perform when joining my Plex serv
 <br><br>
 While you don't need to read this guide from start to finish, new Plex users should at least review the essential sections on [Pinning Libraries](pinning-libraries.md) and [Changing Plex streaming quality](changing-stream-quality/index.md).
 
-    !!! note
-        If there is no Plex account matching the submitted address or if you have deleted your Plex account, then no email will be sent.
-
-    !!! note 
-        Essential links: <br>Plex: https://app.plex.tv/desktop (on your computer), or through the Mobile or Device applications (Android, iPhone/iPad, AppleTV, Roku, etc.)<br>Overseerr: [{{ vars.request_url }}](https://{{ vars.request_url }}) (only needed if you are requesting content, Plex account on my server is required).
+Essential links: <br>Plex: https://app.plex.tv/desktop (on your computer), or through the Mobile or Device applications (Android, iPhone/iPad, AppleTV, Roku, etc.)<br>Overseerr: [{{ vars.request_url }}](https://{{ vars.request_url }}) (only needed if you are requesting content, Plex account on my server is required).

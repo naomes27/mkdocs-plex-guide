@@ -2,11 +2,12 @@
 
 You can request new Movies or TV Shows in two ways:
 
-1. Visit [{{ vars.request_url }}](https://{{ vars.request_url }}) to make direct requests. These are typically approved within 10-15 minutes, and if the content has been released digitally, it will be ready to stream on Plex within 10 minutes.
-2. Add content to your Plex Universal Watchlist, and it will be automatically requested for you.
+1. Visit [{{ vars.request_url }}](https://{{ vars.request_url }}) to make direct for movies or TV shows. These are typically approved within 10-15 minutes, and if the content has been released digitally, it will be ready to stream on Plex within 10 minutes.
+2. Log in with your Plex account credentials.
 
-!!! important
-    For the auto-request feature to work with your Watchlist, you must log into {{ vars.request_url }} at least once every 90 days. If you don't log in regularly, the system won't be able to see your Watchlist, and I won't know what content you're waiting for.
+   
+3. Use the "Search Movies & TV" bar at the top of the page if you know what you are looking for. Otherwise, you can scroll through and browse the content to your heart's content. 
+5. Add content to your Plex Universal Watchlist, and it will be appear in your Overseerr library.
 
 ## Additional Information
 For more details about requesting content, check out these FAQ pages:
